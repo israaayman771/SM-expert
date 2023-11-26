@@ -1,0 +1,136 @@
+header {
+    background-image: url("../img/Group.svg");
+    background-color: #F27024;
+    background-repeat: no-repeat;
+    background-position: -237px;
+}
+li {
+    display: inline-block;
+    
+}
+.navlink {
+    color: white;
+    padding: 9px 11px;
+    text-decoration: none;
+
+}
+#home {
+    background-color: rgba(255, 255, 255, 0.146) ;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+
+/*1st section*/
+#first {
+    background-image: url("../img/b19cf0124d1a675567d07861b2809b78.png");
+    background-position: center;
+    padding-top: 38px;
+    padding-bottom: 51px
+}
+h1 {
+    text-align: center;
+    color: #fff;
+}
+section h1 span {
+    color: #F27024;
+}
+/*2nd section*/
+#main {
+    background-color:#EFEFEF;
+    padding:50px 63px 120px 67px;
+
+}
+.col-4 {
+    float: left;
+    width: calc(100%/12*4);
+    padding: 30px;
+    box-sizing: border-box;
+}
+.float {
+    clear: both;
+}
+.article {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+}
+h2 {
+    color: #00445C;
+}
+div p {
+    color: #404040;
+    height: 130px;
+}
+a {
+    background-color: #F27024;
+    color: #fff;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+/*3rd section */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#flex-container {
+    background-image: url("../img/Rectangle.png");
+    background-repeat: no-repeat;
+}
+#training {
+    text-align: center;
+
+}
+.our {
+    color: #F27024;
+}
+#sm {
+    text-align: center;
+}
+.col-6 {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+.card {
+    float: left;
+    width: 20%;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.float {
+    clear: both;
+}
+
+h4 {
+    color: #F27024;
+}
+/*.float {
+    float: left;
+}
+.clear {
+    clear: both;
+}*/
+iframe {
+    width: 100%;
+}
+footer {
+    background-color: #00445C;
+    display: flex;
+   justify-content: space-between;
+   padding-left: 15px;
+   padding-right: 15px;
+   align-items: center;
+}
